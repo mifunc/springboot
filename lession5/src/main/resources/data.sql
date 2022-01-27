@@ -1,0 +1,1 @@
+INSERT INTO rumenz (id,name) VALUES(1,'入门'),(2,'小站'),(3,'入门小站 rumenz.com');
